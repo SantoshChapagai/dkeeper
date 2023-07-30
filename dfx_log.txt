@@ -1,0 +1,5 @@
+error: unexpected argument '--port' found
+
+Usage: dfx start <--host <HOST>|--background|--clean|--emulator|--bitcoin-node <BITCOIN_NODE>|--enable-bitcoin|--enable-canister-http|--artificial-delay <ARTIFICIAL_DELAY>|--force>
+
+For more information, try '--help'.
